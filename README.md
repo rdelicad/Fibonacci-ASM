@@ -1,6 +1,3 @@
-
-
-```
 # Fibonacci Sequence in Assembly
 
 This project is a simple Assembly program that calculates and prints the Fibonacci sequence up to a user-defined maximum value. It demonstrates the use of system calls (`syscall`), external functions from `libc` (like `printf` and `scanf`), and basic Assembly programming concepts.
@@ -29,7 +26,6 @@ This project is a simple Assembly program that calculates and prints the Fibonac
    ```bash
    git clone https://github.com/your-username/fibonacci-assembly.git
    cd fibonacci-assembly
-   ```
 
 2. **Build the program**:
    ```bash
