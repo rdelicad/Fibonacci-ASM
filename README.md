@@ -24,7 +24,7 @@ This project is a simple Assembly program that calculates and prints the Fibonac
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/fibonacci-assembly.git
+   git clone https://github.com/rdelicad/fibonacci-assembly.git
    cd fibonacci-assembly
 
 2. **Build the program**:
