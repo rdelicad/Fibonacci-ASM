@@ -1,4 +1,4 @@
-¡Claro! Aquí tienes un **README.md** en inglés para tu proyecto de Fibonacci en ensamblador. Puedes copiarlo y pegarlo directamente en tu repositorio de GitHub:
+
 
 ```markdown
 # Fibonacci Sequence in Assembly
