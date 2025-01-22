@@ -1,6 +1,6 @@
 
 
-```markdown
+```
 # Fibonacci Sequence in Assembly
 
 This project is a simple Assembly program that calculates and prints the Fibonacci sequence up to a user-defined maximum value. It demonstrates the use of system calls (`syscall`), external functions from `libc` (like `printf` and `scanf`), and basic Assembly programming concepts.
